@@ -32,6 +32,9 @@ Ao final do código obtemos a visualização do grafo em seu estado inicial e ta
 ![Função create_graph_from_schedule](./imgs/create_graph.png)
 ![Grafo inicial](./imgs/GrafoInicial.png)
 
-7. Por fim, podemos observar abaixo o código utilizado para achar a coloração ótima do grafo. Além disso, abaixo do código podemos ver o resultado final da coloração
+7. Podemos observar abaixo o código utilizado para achar a coloração ótima do grafo. Além disso, abaixo do código podemos ver o resultado final da coloração
 ![Função find_optimal_coloring](./imgs/find_optimal_coloring.png)
 ![Grafo colorado final](./imgs/grafoColorado.png)
+
+8. Por fim, podemos visualizar abaixo as 3 primeiras rodadas do campeonato.
+![Grafo colorado final](./imgs/rodadas3primeiras.jpeg)   
