@@ -1,5 +1,5 @@
 
-# Projeto 3 - Teoria e Aplicação de Grafos
+# Projeto 3 - Teoria e Aplicação de Grafos
 
 ### Lucca Magalhães Boselli Couto - 222011552
 
