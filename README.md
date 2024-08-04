@@ -2,6 +2,7 @@
 # Projeto 3 - Teoria e Aplicação de Grafos
 
 ### Lucca Magalhães Boselli Couto - 222011552
+### Gustavo de Melo Ferreira - 222011570
 
 ## Sobre o projeto
 
